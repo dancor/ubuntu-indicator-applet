@@ -1,3 +1,9 @@
+indicator-applet (0.5.0-0ubuntu2) precise; urgency=low
+
+  * Change keybindings to lol ones so mine are unclobbered.
+
+ -- danl <danl@kagu>  Wed, 30 Jan 2013 01:06:05 -1000
+
 indicator-applet (0.5.0-0ubuntu1) precise; urgency=low
 
   * New upstream release.

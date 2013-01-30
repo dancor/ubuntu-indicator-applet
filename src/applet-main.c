@@ -108,16 +108,16 @@ static FILE *log_file = NULL;
  * Hotkey support 
  * **************/
 #ifdef INDICATOR_APPLET
-gchar * hotkey_keycode = "<Super>M";
+gchar * hotkey_keycode = "<Super>F13";
 #endif
 #ifdef INDICATOR_APPLET_SESSION
-gchar * hotkey_keycode = "<Super>S";
+gchar * hotkey_keycode = "<Super>F14";
 #endif
 #ifdef INDICATOR_APPLET_COMPLETE
-gchar * hotkey_keycode = "<Super>S";
+gchar * hotkey_keycode = "<Super>F15";
 #endif
 #ifdef INDICATOR_APPLET_APPMENU
-gchar * hotkey_keycode = "<Super>F1";
+gchar * hotkey_keycode = "<Super>F16";
 #endif
 
 /********************
